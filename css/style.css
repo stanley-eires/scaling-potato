@@ -1,0 +1,50 @@
+body{
+    font-family:Arial;
+    margin:0px;
+}
+
+
+.logo {
+    font-size:3.5rem;
+    color:#d79b52;
+    font-family:Impact;
+    margin:0px;
+   
+}
+
+.date {
+    color:grey;
+    font-weight:bold
+}
+.header {
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:15px 20px;
+    background-color:white
+}
+.banner{
+    background-image:url('../images/61.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:center center;
+    background-color:rgba(0, 0, 0, 0.445);
+    background-blend-mode: darken;
+}
+.inner-box {
+    padding:270px 100px 20px 40px;
+}
+
+.font-size-25{
+    font-size:3rem;
+}
+.text-lighter-blue{
+    color:rgb(202, 237, 248);
+}
+.text-white{
+    color:white;
+}
+.ans{
+    border-bottom:2px solid;
+    display:inline
+}
